@@ -27,7 +27,6 @@ An intelligent race engineer that learns F1 pit stop timing and race strategy by
 
 - **Python 3.8+**
 - **pip** package manager
-- **At least 1GB free disk space** for models and data
 
 ### Step 1: Create Virtual Environment (Recommended)
 
