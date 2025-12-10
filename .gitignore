@@ -17,10 +17,8 @@ kaggle.json
 # Generated JSON
 evaluate_results.json
 
-# Documentation (not for GitHub)
-CLAUDE.md
+# Documentation
 GUIDE.md
-README_SETUP.md
 project_report.tex
 
 # Python
