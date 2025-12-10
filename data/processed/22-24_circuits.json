@@ -1,0 +1,102 @@
+[
+    {
+        "circuitId": 1,
+        "name": "Albert Park Grand Prix Circuit"
+    },
+    {
+        "circuitId": 3,
+        "name": "Bahrain International Circuit"
+    },
+    {
+        "circuitId": 4,
+        "name": "Circuit de Barcelona-Catalunya"
+    },
+    {
+        "circuitId": 6,
+        "name": "Circuit de Monaco"
+    },
+    {
+        "circuitId": 7,
+        "name": "Circuit Gilles Villeneuve"
+    },
+    {
+        "circuitId": 9,
+        "name": "Silverstone Circuit"
+    },
+    {
+        "circuitId": 11,
+        "name": "Hungaroring"
+    },
+    {
+        "circuitId": 13,
+        "name": "Circuit de Spa-Francorchamps"
+    },
+    {
+        "circuitId": 14,
+        "name": "Autodromo Nazionale di Monza"
+    },
+    {
+        "circuitId": 15,
+        "name": "Marina Bay Street Circuit"
+    },
+    {
+        "circuitId": 17,
+        "name": "Shanghai International Circuit"
+    },
+    {
+        "circuitId": 18,
+        "name": "Aut\u00f3dromo Jos\u00e9 Carlos Pace"
+    },
+    {
+        "circuitId": 21,
+        "name": "Autodromo Enzo e Dino Ferrari"
+    },
+    {
+        "circuitId": 22,
+        "name": "Suzuka Circuit"
+    },
+    {
+        "circuitId": 80,
+        "name": "Las Vegas Strip Street Circuit"
+    },
+    {
+        "circuitId": 24,
+        "name": "Yas Marina Circuit"
+    },
+    {
+        "circuitId": 32,
+        "name": "Aut\u00f3dromo Hermanos Rodr\u00edguez"
+    },
+    {
+        "circuitId": 34,
+        "name": "Circuit Paul Ricard"
+    },
+    {
+        "circuitId": 39,
+        "name": "Circuit Park Zandvoort"
+    },
+    {
+        "circuitId": 69,
+        "name": "Circuit of the Americas"
+    },
+    {
+        "circuitId": 70,
+        "name": "Red Bull Ring"
+    },
+    {
+        "circuitId": 73,
+        "name": "Baku City Circuit"
+    },
+    {
+        "circuitId": 77,
+        "name": "Jeddah Corniche Circuit"
+    },
+    {
+        "circuitId": 78,
+        "name": "Losail International Circuit"
+    },
+    {
+        "circuitId": 79,
+        "name": "Miami International Autodrome"
+    }
+]

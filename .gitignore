@@ -1,0 +1,50 @@
+# Virtual Environment
+f1_race_engineer/
+
+# Data
+data/raw/
+
+# Generated Models
+models/
+
+# Generated Results
+results/
+
+# Environment and Credentials
+cred.env
+kaggle.json
+
+# Generated JSON
+evaluate_results.json
+
+# Documentation (not for GitHub)
+CLAUDE.md
+GUIDE.md
+README_SETUP.md
+project_report.tex
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+training_output.log
+bc_ppo_training.log
