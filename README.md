@@ -568,8 +568,6 @@ Formula 1 strategy requires making pit stop decisions across 50+ lap races, wher
 Mukund Iyengar
 
 **Master's Project - Johns Hopkins University**
-AI-Powered F1 Strategist
-December 2024
 
 ---
 
