@@ -1,4 +1,4 @@
-# AI-Powered F1 Race Engineer
+# AI-Powered F1 Race Strategist
 
 **Two-Stage Reinforcement Learning for Optimal Pit Stop Strategy**
 
